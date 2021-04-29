@@ -1,6 +1,6 @@
 ## Cv
 1. Mikryukov Nikita
-2. Discord - NikitaAir#7657
+2. Discord - NikitaAir#7657, telegram - NikitAirForce
 3. My target is to become the best ios developer in the world))
 I want to improve my studies in the field of ios development in this course. I am hungry for new knowledge. Sometimes I dream about how I develop applications because I constantly think about it
 4. Skills : 
